@@ -13,7 +13,7 @@ VR 동글을 빠르게 만들고 싶으시다면: **퀵 스타트**에서 펌웨
 
 ## 퀵 스타트
 
-- https://github.com/cymise/convert-to-watchman/blob/main/flash.uf2
+- https://github.com/cymise/convert-to-watchman/blob/3f0c7e654c0fd2a693d3c91afe6ac3d9ec9a0180/flash.uf2
   - UF2 App 펌웨어 파일입니다.
   
 ## 펌웨어 제작
